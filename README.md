@@ -9,10 +9,19 @@ The historical data is plotted on a graph using [React Charts](https://www.npmjs
 
  CSS Framework used  : [React Semantic UI](https://react.semantic-ui.com/)
 
+ Websockets are used to continuously show any price changes for currency pair. [Websocket feed- CoinBase](https://docs.pro.coinbase.com/#websocket-feed)
+
 
 ## Demo Screenshot
 
-<img src="./screenshot/Capture.PNG" alt="Screenshot of system" width="400"/>
+Select Base Currency            |  Select Crypto currency Pair
+:-------------------------:|:-------------------------:
+<img src="./screenshot/Capture1.PNG" alt="Screenshot of system" width="400"/>  |  <img src="./screenshot/Capture2.PNG" alt="Screenshot of system" width="400"/>
+
+Final Prices            |    -
+:-------------------------:|:-------------------------:
+<img src="./screenshot/Capture.PNG" alt="Screenshot of system" width="400"/> |  
+
 
 
 ## Steps to run

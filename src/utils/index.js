@@ -48,7 +48,7 @@ export const formatDropdownData = (dataArray) => {
     return dataArray.map((data) => {
         return {
             key: data.base_currency,
-            text: data.id,
+            text: data.base_currency,
             value: data.id,
             id: data.base_currency
         }
